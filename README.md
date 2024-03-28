@@ -8,6 +8,11 @@ By accurately detecting and categorizing terrain features, autonomous systems ca
 
 Solving this challenge is crucial for improving the performance and versatility of robotic and drone applications across industries such as agriculture, search and rescue, surveillance, and infrastructure maintenance.
 
+## Features
+- Fractical Dimension
+- Lacunarity
+
+
 ## Results
 
 ![](https://i.ibb.co/zQSQSLq/terrain.png)
