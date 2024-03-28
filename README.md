@@ -1,4 +1,4 @@
-# TerrainRecognition
+## Terrain Recognition
 
 The terrain recognition problem involves teaching robots and drones to identify and adapt to different types of landscapes or environments they may encounter during operation. 
 
